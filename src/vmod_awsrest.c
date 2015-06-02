@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include "vcl.h"
 #include "vrt.h"
-#include "bin/varnishd/cache.h"
+#include "bin/varnishd/cache/cache.h"
 #include <time.h>
 #include <string.h>
 #include <syslog.h>
